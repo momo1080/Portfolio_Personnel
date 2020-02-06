@@ -1,0 +1,2 @@
+[0121/165923.747:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0121/165923.841:ERROR:exception_snapshot_win.cc(98)] thread ID 5536 not found in process
