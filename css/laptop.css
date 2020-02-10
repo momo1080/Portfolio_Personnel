@@ -207,10 +207,11 @@ body * {
   width: 0px;
   position: absolute;
   top: 342%;
-  left: 70%;
+  left: 17%;
   -webkit-transform: translateY(-89%) translateX(-50%);
-          transform: translateY(60%) translateX(-50%);
+          transform: translateY(-95%) translateX(-50%) scale(0.6);
   transition: .25s ease-in-out;
+
 }
 
 .screen {
